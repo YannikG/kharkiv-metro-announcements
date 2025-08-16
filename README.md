@@ -91,7 +91,6 @@ Other announcements are available here: https://gortransport.kharkov.ua/subway/s
 | Перехід на станцію Держпром до поїздів Олексіївської лінії | Transfer to Derzhprom station for Oleksiivska Line trains | `in_the_train/change_to/from_blue_to_green.mp3` |
 | Перехід на станцію Університет до поїздів Салтівської лінії | Transfer to Universytet station for Saltivska Line trains | `in_the_train/change_to/from_green_to_blue.mp3` |
 
-§
 
 ### In-Train Announcements
 | Ukrainian Text                     | English Translation                     | File Path                                  |
