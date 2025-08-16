@@ -1,3 +1,5 @@
 /venv
 /output/**
 /audio/**
+!/audio/.gitkeep
+!/output/.gitkeep

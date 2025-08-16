@@ -1,5 +1,8 @@
 # Kharkiv Metro Announcements
-**This repository contains a collection of Jupyter Notebooks to generate announcements for the Kharkiv metro system.**
+This repository contains a collection of Jupyter Notebooks to generate announcements for the Kharkiv metro system.
+
+![Kharkiv Metro Map"](./.resources/kharkiv_metro_map.jpg?raw=true "Kharkiv Metro Map")
+Source: [Inside-ua.com](https://inside-ua.com/metro/kharkiv)
 
 ## Background
 I am a fan of public and rapid transportation, so in my recent trips to the fantastic city of Kharkiv in the eastern part of Ukraine. I kinda felt "in love" with the system and how it operates. Especially with the clear, calm and still informative automated announcements in the trains and in the stations. So I took some recordings of the original announcements and cloned it using AI (for private use only!) to recreate building blocks of the announcements.
